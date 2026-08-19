@@ -1,0 +1,10 @@
+image_alpha=0
+size=0.8
+warning=1
+warning_trigger=true
+hitbox_message=false
+message_cancel=false
+alpha=0
+alpha_grow=true
+image_xscale=4.5
+image_yscale=4.5

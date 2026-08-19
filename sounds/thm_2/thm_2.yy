@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"thm_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":7.111111,
+  "exportDir":"",
+  "name":"thm_2",
+  "parent":{
+    "name":"Concept",
+    "path":"Concept.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"thm_2.wav",
+  "volume":1.0,
+}

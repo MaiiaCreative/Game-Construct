@@ -1,0 +1,1 @@
+global.generate_enemy=true

@@ -1,0 +1,9 @@
+x=room_width/2
+y=572
+obj_control.audio_layer=0
+alpha=false
+image_xscale=0.1557034
+image_yscale=0.1557034
+audio_sound_gain(obj_control.theme2,0,1)
+audio_sound_gain(obj_control.theme3,0,1)
+audio_sound_gain(obj_control.themekick,0,1)
